@@ -1,7 +1,7 @@
 function Home() {
     return( 
     <div>
-    <h1>Mo te ama muito!! ❤️</h1>
+    <h1>Te amo muito! ❤️</h1>
     <h2>Receita de bolo</h2>
     <h3>Para a massa</h3>
     <ul>
